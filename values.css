@@ -42,10 +42,6 @@
     text-decoration: none;
   }
   
-  /* Right-aligned link */
-  .navbar a.right {
-    float: right;
-  }
   
   /* Change color on hover */
   .navbar a:hover {
@@ -160,6 +156,9 @@
     opacity: 1;
     margin-top: -50px;
 }
+
+
+/* Mobile Responsiveness */
 
 @media screen and (max-width: 780px) {
 
